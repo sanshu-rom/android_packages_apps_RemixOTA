@@ -16,4 +16,4 @@
 #   public *;
 #}
 
--keep class com.pixelgsi.ota.core.OTAListener
+-keep class com.remix.ota.core.OTAListener
