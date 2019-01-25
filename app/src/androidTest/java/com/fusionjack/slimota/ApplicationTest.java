@@ -1,4 +1,4 @@
-package com.pixelgsi.ota;
+package com.remix.ota;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
